@@ -5,10 +5,6 @@
 
 ![exemplo de arte com pixels](./art-with-pixels.gif)
 
-## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_  e _classes_ que alguns elementos de seu projeto devem possuir**. Não troque `ids` por `classes` ou vice-versa ⚠️
-
-O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação.
-
 ## Requisitos Obrigatórios:
 
 * Neste projeto, você implementará um editor de arte com pixels.
